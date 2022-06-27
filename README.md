@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adam Nörhi</h1>
-<h3 align="center">A passionate student from Sweden</h3>
+<h1 align="center">Hi 👋, I'm Adam Närhi</h1>
+<h3 align="center">A passionate student from Sweden who is currently studying Computer Science at KTH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-anarhi&label=Profile%20views&color=0e75b6&style=flat" alt="dev-anarhi" /> </p>
 
